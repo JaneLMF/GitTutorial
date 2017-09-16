@@ -1,2 +1,4 @@
 # HELLo
-## add feature-A
+
+- feature-A
+- fix-B
